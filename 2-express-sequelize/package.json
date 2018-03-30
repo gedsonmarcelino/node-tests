@@ -1,0 +1,16 @@
+{
+  "name": "2-express-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sequelize": "^4.37.5",
+    "sqlite3": "^4.0.0"
+  }
+}
