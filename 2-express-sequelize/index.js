@@ -1,9 +1,28 @@
 var express = require('express');
 var app = express();
 
-var {db} = require('./config/database')
+const {User, Post} = require('./db/models')
 
 app.get('/', function (req, res) {
+
+  // let users = User.findAll().then( items => {
+  //   items.forEach(item => {
+  //     console.log( item.id, item.name, item.email )      
+  //   });
+  // })
+
+  let posts = Post.findAll({
+    include: [{
+      model: User,
+      as: 'user'
+    }]
+  }).then( items => {
+    items.forEach(item => {
+      console.log( item.id, item.title, item.userId, item.user)      
+    });
+  })
+
+
   res.send('Hello World!');
 });
 
