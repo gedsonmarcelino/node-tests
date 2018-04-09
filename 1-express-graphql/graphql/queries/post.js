@@ -4,14 +4,14 @@ const PostType = require('../types/post')
 
 const posts = require('../../db/posts.json')
 
-module.exports =  {
+module.exports = {
   post: {
     type: PostType,
-    args:{
+    args: {
       id: { type: graphql.GraphQLInt }
     },
     resolve: (_, args) => {
-      return posts.find(post => post.id === args.id ) 
+      return posts.find(post => post.id === args.id)
     }
   },
   posts: {

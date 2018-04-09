@@ -10,9 +10,9 @@ module.exports = new graphql.GraphQLObjectType({
     title: { type: graphql.GraphQLString },
     content: { type: graphql.GraphQLString },
     user_id: { type: graphql.GraphQLInt },
-    user: { 
+    user: {
       type: UserType,
-      resolve: (post, args, info) => users.find( user => user.id === post.id_user )
+      resolve: (post, args, info) => users.find(user => user.id === post.id_user)
     }
   }
 })

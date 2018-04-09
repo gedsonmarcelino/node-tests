@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 const faker = require('faker')
 
@@ -14,20 +14,20 @@ module.exports = {
         isBetaMember: false
       }], {});
     */
-    const rand = (max, min) => (Math.random() * (max-min)+max)
+    const rand = (max, min) => (Math.random() * (max - min) + max)
 
-    let posts = [];
+    let posts = []
     for (let index = 0; index < 3; index++) {
       posts.push({
-        title: faker.lorem.sentence( rand(10,5) ),
-        content: faker.lorem.paragraph( rand(5,1) ),
+        title: faker.lorem.sentence(rand(10, 5)),
+        content: faker.lorem.paragraph(rand(5, 1)),
         userId: 1,
         createdAt: Date.now(),
         updatedAt: Date.now()
-      })      
+      })
     }
 
-    return queryInterface.bulkInsert('Posts', posts, {});
+    return queryInterface.bulkInsert('Posts', posts, {})
   },
 
   down: (queryInterface, Sequelize) => {
@@ -38,6 +38,6 @@ module.exports = {
       Example:
       return queryInterface.bulkDelete('Person', null, {});
     */
-    return queryInterface.bulkDelete('Posts', null, {});
+    return queryInterface.bulkDelete('Posts', null, {})
   }
-};
+}
