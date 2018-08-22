@@ -1,0 +1,6027 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "number": 1,
+      "name": "Bulbasaur",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Vine Whip",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Petal Dance",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "number": 2,
+      "name": "Ivysaur",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Vine Whip",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Petal Dance",
+          "level": 0
+        },
+        {
+          "name": "Leech Seed",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Poison Powder",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": 3,
+      "name": "Venusaur",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Vine Whip",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Petal Dance",
+          "level": 0
+        },
+        {
+          "name": "Leech Seed",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Poison Powder",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Mega Drain",
+          "level": 0
+        },
+        {
+          "name": "Solar Beam",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": 4,
+      "name": "Charmander",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Fire Punch",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Fire Spin",
+          "level": 0
+        },
+        {
+          "name": "Scratch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": 5,
+      "name": "Charmeleon",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Fire Punch",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Fire Spin",
+          "level": 0
+        },
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Dragon Claw",
+          "level": 0
+        },
+        {
+          "name": "Metal Claw",
+          "level": 0
+        },
+        {
+          "name": "Flamethrower",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "number": 6,
+      "name": "Charizard",
+      "type1": "Fire",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Fire Punch",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Fire Spin",
+          "level": 0
+        },
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Dragon Claw",
+          "level": 0
+        },
+        {
+          "name": "Metal Claw",
+          "level": 0
+        },
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Flare Blitz",
+          "level": 0
+        },
+        {
+          "name": "Flame Charge",
+          "level": 0
+        },
+        {
+          "name": "Fire Blast",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "number": 7,
+      "name": "Squirtle",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "number": 8,
+      "name": "Wartortle",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Aqua Jet",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "number": 9,
+      "name": "Blastoise",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Aqua Jet",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Aqua Ring",
+          "level": 0
+        },
+        {
+          "name": "Hydro Pump",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "number": 10,
+      "name": "Caterpie",
+      "type1": "Bug",
+      "type2": "",
+      "moves": [
+        {
+          "name": "String Shot",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Lunge",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "number": 11,
+      "name": "Metapod",
+      "type1": "Bug",
+      "type2": "",
+      "moves": [
+        {
+          "name": "String Shot",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Lunge",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Electroweb",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Iron Defense",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "number": 12,
+      "name": "Butterfree",
+      "type1": "Bug",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "String Shot",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Lunge",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Electroweb",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Iron Defense",
+          "level": 0
+        },
+        {
+          "name": "Rage Powder",
+          "level": 0
+        },
+        {
+          "name": "Silver Wind",
+          "level": 0
+        },
+        {
+          "name": "U-Turn",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "number": 13,
+      "name": "Weedle",
+      "type1": "Bug",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "String Shot",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Lunge",
+          "level": 0
+        },
+        {
+          "name": "Poison Sting",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "number": 14,
+      "name": "Kakuna",
+      "type1": "Bug",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "String Shot",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Lunge",
+          "level": 0
+        },
+        {
+          "name": "Poison Sting",
+          "level": 0
+        },
+        {
+          "name": "Electroweb",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Iron Defense",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "number": 15,
+      "name": "Beedrill",
+      "type1": "Bug",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "String Shot",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Lunge",
+          "level": 0
+        },
+        {
+          "name": "Poison Sting",
+          "level": 0
+        },
+        {
+          "name": "Electroweb",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Iron Defense",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Aerial Ace",
+          "level": 0
+        },
+        {
+          "name": "Pin Missile",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "number": 16,
+      "name": "Pidgey",
+      "type1": "Normal",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Gust",
+          "level": 0
+        },
+        {
+          "name": "Whirlwind",
+          "level": 0
+        },
+        {
+          "name": "Tailwind",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "number": 17,
+      "name": "Pidgeotto",
+      "type1": "Normal",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Gust",
+          "level": 0
+        },
+        {
+          "name": "Whirlwind",
+          "level": 0
+        },
+        {
+          "name": "Tailwind",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Hurricane",
+          "level": 0
+        },
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "number": 18,
+      "name": "Pidgeot",
+      "type1": "Normal",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Gust",
+          "level": 0
+        },
+        {
+          "name": "Whirlwind",
+          "level": 0
+        },
+        {
+          "name": "Tailwind",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Hurricane",
+          "level": 0
+        },
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        },
+        {
+          "name": "Sky Attack",
+          "level": 0
+        },
+        {
+          "name": "Heat Wave",
+          "level": 0
+        },
+        {
+          "name": "Roost",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "number": 19,
+      "name": "Rattata",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Crunch",
+          "level": 0
+        },
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "number": 20,
+      "name": "Raticate",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Crunch",
+          "level": 0
+        },
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        },
+        {
+          "name": "Flame Wheel",
+          "level": 0
+        },
+        {
+          "name": "Zen Headbutt",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Fury Swipes",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "number": 21,
+      "name": "Spearow",
+      "type1": "Normal",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Aerial Ace",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Fly",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "number": 22,
+      "name": "Fearow",
+      "type1": "Normal",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Aerial Ace",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Fly",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        },
+        {
+          "name": "Steel Wing",
+          "level": 0
+        },
+        {
+          "name": "U-Turn",
+          "level": 0
+        },
+        {
+          "name": "Whirlwind",
+          "level": 0
+        },
+        {
+          "name": "Drill Peck",
+          "level": 0
+        },
+        {
+          "name": "Tri Attack",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "number": 23,
+      "name": "Ekans",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Poison Sting",
+          "level": 0
+        },
+        {
+          "name": "Mud Bomb",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "number": 24,
+      "name": "Arbok",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Poison Sting",
+          "level": 0
+        },
+        {
+          "name": "Mud Bomb",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Sucker Punch",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Crunch",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "number": 25,
+      "name": "Pikachu",
+      "type1": "Electric",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Thunder Shock",
+          "level": 0
+        },
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        },
+        {
+          "name": "Spark",
+          "level": 0
+        },
+        {
+          "name": "Volt Tackle",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "number": 26,
+      "name": "Raichu",
+      "type1": "Electric",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Thunder Shock",
+          "level": 0
+        },
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        },
+        {
+          "name": "Spark",
+          "level": 0
+        },
+        {
+          "name": "Volt Tackle",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Thunder",
+          "level": 0
+        },
+        {
+          "name": "Electric Terrain",
+          "level": 0
+        },
+        {
+          "name": "Charge",
+          "level": 0
+        },
+        {
+          "name": "Giga Impact",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "number": 27,
+      "name": "Sandshrew",
+      "type1": "Ground",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Metal Claw",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Sandstorm",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "number": 28,
+      "name": "Sandslash",
+      "type1": "Ground",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Metal Claw",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Sandstorm",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Fury Swipes",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        },
+        {
+          "name": "Aerial Ace",
+          "level": 0
+        },
+        {
+          "name": "Night Slash",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "number": 29,
+      "name": "Nidoran♀",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Flatter",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "number": 30,
+      "name": "Nidorina",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Flatter",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Poison Sting",
+          "level": 0
+        },
+        {
+          "name": "Venom Drench",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "number": 31,
+      "name": "Nidoqueen",
+      "type1": "Poison",
+      "type2": "Ground",
+      "moves": [
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Flatter",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Poison Sting",
+          "level": 0
+        },
+        {
+          "name": "Venom Drench",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        },
+        {
+          "name": "Stealth Rock",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "number": 32,
+      "name": "Nidoran♂",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "number": 33,
+      "name": "Nidorino",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "number": 34,
+      "name": "Nidoking",
+      "type1": "Poison",
+      "type2": "Ground",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Megahorn",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "number": 35,
+      "name": "Clefairy",
+      "type1": "Fairy",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Follow Me",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "number": 36,
+      "name": "Clefable",
+      "type1": "Fairy",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Follow Me",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Soft Boiled",
+          "level": 0
+        },
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Belly Drum",
+          "level": 0
+        },
+        {
+          "name": "Dazzling Gleam",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "number": 37,
+      "name": "Vulpix",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Roar",
+          "level": 0
+        },
+        {
+          "name": "Flame Charge",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "number": 38,
+      "name": "Ninetales",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Roar",
+          "level": 0
+        },
+        {
+          "name": "Flame Charge",
+          "level": 0
+        },
+        {
+          "name": "Solar Beam",
+          "level": 0
+        },
+        {
+          "name": "Confuse Ray",
+          "level": 0
+        },
+        {
+          "name": "Heat Wave",
+          "level": 0
+        },
+        {
+          "name": "Will-O-Wisp",
+          "level": 0
+        },
+        {
+          "name": "Fire Blast",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "number": 39,
+      "name": "Jigglypuff",
+      "type1": "Normal",
+      "type2": "Fairy",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Sing",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "number": 40,
+      "name": "Wigglytuff",
+      "type1": "Normal",
+      "type2": "Fairy",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Sing",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Rest",
+          "level": 0
+        },
+        {
+          "name": "Sweet Kiss",
+          "level": 0
+        },
+        {
+          "name": "Dynamic Punch",
+          "level": 0
+        },
+        {
+          "name": "Bounce",
+          "level": 0
+        },
+        {
+          "name": "Play Rough",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "number": 41,
+      "name": "Zubat",
+      "type1": "Poison",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Whirlwind",
+          "level": 0
+        },
+        {
+          "name": "Gust",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Leech Life",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "number": 42,
+      "name": "Golbat",
+      "type1": "Poison",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Whirlwind",
+          "level": 0
+        },
+        {
+          "name": "Gust",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Leech Life",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Venom Drench",
+          "level": 0
+        },
+        {
+          "name": "Tailwind",
+          "level": 0
+        },
+        {
+          "name": "Roost",
+          "level": 0
+        },
+        {
+          "name": "Nasty Plot",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "number": 43,
+      "name": "Oddish",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Poison Powder",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Petal Dance",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "number": 44,
+      "name": "Gloom",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Poison Powder",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Petal Dance",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Bullet Seed",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "number": 45,
+      "name": "Vileplume",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Poison Powder",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Petal Dance",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Bullet Seed",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Mega Drain",
+          "level": 0
+        },
+        {
+          "name": "Solar Beam",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "number": 46,
+      "name": "Paras",
+      "type1": "Bug",
+      "type2": "Grass",
+      "moves": [
+        {
+          "name": "Leech Seed",
+          "level": 0
+        },
+        {
+          "name": "Poison Powder",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Rage Powder",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "number": 47,
+      "name": "Parasect",
+      "type1": "Bug",
+      "type2": "Grass",
+      "moves": [
+        {
+          "name": "Leech Seed",
+          "level": 0
+        },
+        {
+          "name": "Poison Powder",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Rage Powder",
+          "level": 0
+        },
+        {
+          "name": "Spore",
+          "level": 0
+        },
+        {
+          "name": "Metal Claw",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Bullet Seed",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "number": 48,
+      "name": "Venonat",
+      "type1": "Bug",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "String Shot",
+          "level": 0
+        },
+        {
+          "name": "Poison Powder",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "number": 49,
+      "name": "Venomoth",
+      "type1": "Bug",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "String Shot",
+          "level": 0
+        },
+        {
+          "name": "Poison Powder",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Silver Wind",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Gust",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "number": 50,
+      "name": "Diglett",
+      "type1": "Ground",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Mud Bomb",
+          "level": 0
+        },
+        {
+          "name": "Stealth Rock",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "number": 51,
+      "name": "Dugtrio",
+      "type1": "Ground",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Mud Bomb",
+          "level": 0
+        },
+        {
+          "name": "Stealth Rock",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Mud-Slap",
+          "level": 0
+        },
+        {
+          "name": "Sucker Punch",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Shore Up",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Rock Throw",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "number": 52,
+      "name": "Meowth",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Fury Swipes",
+          "level": 0
+        },
+        {
+          "name": "U-Turn",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "number": 53,
+      "name": "Persian",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Fury Swipes",
+          "level": 0
+        },
+        {
+          "name": "U-Turn",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Play Rough",
+          "level": 0
+        },
+        {
+          "name": "Nasty Plot",
+          "level": 0
+        },
+        {
+          "name": "Roar",
+          "level": 0
+        },
+        {
+          "name": "Night Slash",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "number": 54,
+      "name": "Psyduck",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Confuse Ray",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "number": 55,
+      "name": "Golduck",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Confuse Ray",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Mud Bomb",
+          "level": 0
+        },
+        {
+          "name": "Hydro Pump",
+          "level": 0
+        },
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "number": 56,
+      "name": "Mankey",
+      "type1": "Fighting",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Submission",
+          "level": 0
+        },
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        },
+        {
+          "name": "Fury Swipes",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "number": 57,
+      "name": "Primeape",
+      "type1": "Fighting",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Submission",
+          "level": 0
+        },
+        {
+          "name": "Scratch",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        },
+        {
+          "name": "Fury Swipes",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Meditate",
+          "level": 0
+        },
+        {
+          "name": "Cross Chop",
+          "level": 0
+        },
+        {
+          "name": "Close Combat",
+          "level": 0
+        },
+        {
+          "name": "Night Slash",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "number": 58,
+      "name": "Growlithe",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Flame Charge",
+          "level": 0
+        },
+        {
+          "name": "Roar",
+          "level": 0
+        },
+        {
+          "name": "Flame Wheel",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "number": 59,
+      "name": "Arcanine",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Flame Charge",
+          "level": 0
+        },
+        {
+          "name": "Roar",
+          "level": 0
+        },
+        {
+          "name": "Flame Wheel",
+          "level": 0
+        },
+        {
+          "name": "Crunch",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Fire Blast",
+          "level": 0
+        },
+        {
+          "name": "Flare Blitz",
+          "level": 0
+        },
+        {
+          "name": "Extreme Speed",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "number": 60,
+      "name": "Poliwag",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "number": 61,
+      "name": "Poliwhirl",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Bulk Up",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "number": 62,
+      "name": "Poliwrath",
+      "type1": "Water",
+      "type2": "Fighting",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Bulk Up",
+          "level": 0
+        },
+        {
+          "name": "Dynamic Punch",
+          "level": 0
+        },
+        {
+          "name": "Power-Up Punch",
+          "level": 0
+        },
+        {
+          "name": "Ice Punch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "number": 63,
+      "name": "Abra",
+      "type1": "Psychic",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Teleport",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "number": 64,
+      "name": "Kadabra",
+      "type1": "Psychic",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Teleport",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Dazzling Gleam",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "number": 65,
+      "name": "Alakazam",
+      "type1": "Psychic",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Teleport",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Dazzling Gleam",
+          "level": 0
+        },
+        {
+          "name": "Recover",
+          "level": 0
+        },
+        {
+          "name": "Shadow Ball",
+          "level": 0
+        },
+        {
+          "name": "Psycho Cut",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "number": 66,
+      "name": "Machop",
+      "type1": "Fighting",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Rolling Kick",
+          "level": 0
+        },
+        {
+          "name": "Submission",
+          "level": 0
+        },
+        {
+          "name": "Bulk Up",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "number": 67,
+      "name": "Machoke",
+      "type1": "Fighting",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Rolling Kick",
+          "level": 0
+        },
+        {
+          "name": "Submission",
+          "level": 0
+        },
+        {
+          "name": "Bulk Up",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Work Up",
+          "level": 0
+        },
+        {
+          "name": "Cross Chop",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "number": 68,
+      "name": "Machamp",
+      "type1": "Fighting",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Rolling Kick",
+          "level": 0
+        },
+        {
+          "name": "Submission",
+          "level": 0
+        },
+        {
+          "name": "Bulk Up",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Work Up",
+          "level": 0
+        },
+        {
+          "name": "Cross Chop",
+          "level": 0
+        },
+        {
+          "name": "Close Combat",
+          "level": 0
+        },
+        {
+          "name": "Power-Up Punch",
+          "level": 0
+        },
+        {
+          "name": "Dynamic Punch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "number": 69,
+      "name": "Bellsprout",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Razor Leaf",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Bullet Seed",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "number": 70,
+      "name": "Weepinbell",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Razor Leaf",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Bullet Seed",
+          "level": 0
+        },
+        {
+          "name": "Vine Whip",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Slam",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "number": 71,
+      "name": "Victreebel",
+      "type1": "Grass",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Razor Leaf",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Bullet Seed",
+          "level": 0
+        },
+        {
+          "name": "Vine Whip",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Slam",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        },
+        {
+          "name": "Solar Beam",
+          "level": 0
+        },
+        {
+          "name": "Hyper Beam",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "number": 72,
+      "name": "Tentacool",
+      "type1": "Water",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Poison Sting",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "number": 73,
+      "name": "Tentacruel",
+      "type1": "Water",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Poison Sting",
+          "level": 0
+        },
+        {
+          "name": "Hydro Pump",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Confuse Ray",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "number": 74,
+      "name": "Geodude",
+      "type1": "Rock",
+      "type2": "Ground",
+      "moves": [
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "number": 75,
+      "name": "Graveler",
+      "type1": "Rock",
+      "type2": "Ground",
+      "moves": [
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Stealth Rock",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Self Destruct",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "number": 76,
+      "name": "Golem",
+      "type1": "Rock",
+      "type2": "Ground",
+      "moves": [
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Stealth Rock",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Self Destruct",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Explosion",
+          "level": 0
+        },
+        {
+          "name": "Rock Polish",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "number": 77,
+      "name": "Ponyta",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flame Charge",
+          "level": 0
+        },
+        {
+          "name": "Bounce",
+          "level": 0
+        },
+        {
+          "name": "Fire Spin",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "number": 78,
+      "name": "Rapidash",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flame Charge",
+          "level": 0
+        },
+        {
+          "name": "Bounce",
+          "level": 0
+        },
+        {
+          "name": "Fire Spin",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Flame Wheel",
+          "level": 0
+        },
+        {
+          "name": "Flare Blitz",
+          "level": 0
+        },
+        {
+          "name": "Fire Blast",
+          "level": 0
+        },
+        {
+          "name": "Megahorn",
+          "level": 0
+        },
+        {
+          "name": "Will-O-Wisp",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "number": 79,
+      "name": "Slowpoke",
+      "type1": "Water",
+      "type2": "Psychic",
+      "moves": [
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Zen Headbutt",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Ice Punch",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "number": 80,
+      "name": "Slowbro",
+      "type1": "Water",
+      "type2": "Psychic",
+      "moves": [
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Zen Headbutt",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Ice Punch",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Belly Drum",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Rest",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "number": 81,
+      "name": "Magnemite",
+      "type1": "Electric",
+      "type2": "Steel",
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "level": 0
+        },
+        {
+          "name": "Metal Sound",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Electroweb",
+          "level": 0
+        },
+        {
+          "name": "Charge",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "number": 82,
+      "name": "Magneton",
+      "type1": "Electric",
+      "type2": "Steel",
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "level": 0
+        },
+        {
+          "name": "Metal Sound",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Electroweb",
+          "level": 0
+        },
+        {
+          "name": "Charge",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Electric Terrain",
+          "level": 0
+        },
+        {
+          "name": "Thunder",
+          "level": 0
+        },
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        },
+        {
+          "name": "Explosion",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "number": 83,
+      "name": "Farfetch'd",
+      "type1": "Normal",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Sky Attack",
+          "level": 0
+        },
+        {
+          "name": "Sucker Punch",
+          "level": 0
+        },
+        {
+          "name": "U-Turn",
+          "level": 0
+        },
+        {
+          "name": "Gust",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        },
+        {
+          "name": "Tailwind",
+          "level": 0
+        },
+        {
+          "name": "Steel Wing",
+          "level": 0
+        },
+        {
+          "name": "Heat Wave",
+          "level": 0
+        },
+        {
+          "name": "Roost",
+          "level": 0
+        },
+        {
+          "name": "Night Slash",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "number": 84,
+      "name": "Doduo",
+      "type1": "Normal",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Drill Peck",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "number": 85,
+      "name": "Dodrio",
+      "type1": "Normal",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Drill Peck",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Aerial Ace",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        },
+        {
+          "name": "Work Up",
+          "level": 0
+        },
+        {
+          "name": "Tri Attack",
+          "level": 0
+        },
+        {
+          "name": "Tailwind",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "number": 86,
+      "name": "Seel",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Lick",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "number": 87,
+      "name": "Dewgong",
+      "type1": "Water",
+      "type2": "Ice",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Lick",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Slam",
+          "level": 0
+        },
+        {
+          "name": "Aurora Veil",
+          "level": 0
+        },
+        {
+          "name": "Aqua Jet",
+          "level": 0
+        },
+        {
+          "name": "Aqua Ring",
+          "level": 0
+        },
+        {
+          "name": "Rest",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "number": 88,
+      "name": "Grimer",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Slam",
+          "level": 0
+        },
+        {
+          "name": "Acid Armor",
+          "level": 0
+        },
+        {
+          "name": "Venom Drench",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "number": 89,
+      "name": "Muk",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Slam",
+          "level": 0
+        },
+        {
+          "name": "Acid Armor",
+          "level": 0
+        },
+        {
+          "name": "Venom Drench",
+          "level": 0
+        },
+        {
+          "name": "Power-Up Punch",
+          "level": 0
+        },
+        {
+          "name": "Fire Punch",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Lick",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "number": 90,
+      "name": "Shellder",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Iron Defense",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "number": 91,
+      "name": "Cloyster",
+      "type1": "Water",
+      "type2": "Ice",
+      "moves": [
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Iron Defense",
+          "level": 0
+        },
+        {
+          "name": "Spikes",
+          "level": 0
+        },
+        {
+          "name": "Rock Blast",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Icicle Crash",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "number": 92,
+      "name": "Gastly",
+      "type1": "Ghost",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Lick",
+          "level": 0
+        },
+        {
+          "name": "Astonish",
+          "level": 0
+        },
+        {
+          "name": "Smog",
+          "level": 0
+        },
+        {
+          "name": "Sucker Punch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "number": 93,
+      "name": "Haunter",
+      "type1": "Ghost",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Lick",
+          "level": 0
+        },
+        {
+          "name": "Astonish",
+          "level": 0
+        },
+        {
+          "name": "Smog",
+          "level": 0
+        },
+        {
+          "name": "Sucker Punch",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Confuse Ray",
+          "level": 0
+        },
+        {
+          "name": "Hypnosis",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "number": 94,
+      "name": "Gengar",
+      "type1": "Ghost",
+      "type2": "Poison",
+      "moves": [
+        {
+          "name": "Lick",
+          "level": 0
+        },
+        {
+          "name": "Astonish",
+          "level": 0
+        },
+        {
+          "name": "Smog",
+          "level": 0
+        },
+        {
+          "name": "Sucker Punch",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Confuse Ray",
+          "level": 0
+        },
+        {
+          "name": "Hypnosis",
+          "level": 0
+        },
+        {
+          "name": "Mega Drain",
+          "level": 0
+        },
+        {
+          "name": "Shadow Ball",
+          "level": 0
+        },
+        {
+          "name": "Will-O-Wisp",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "number": 95,
+      "name": "Onix",
+      "type1": "Rock",
+      "type2": "Ground",
+      "moves": [
+        {
+          "name": "Flash Cannon",
+          "level": 0
+        },
+        {
+          "name": "Stealth Rock",
+          "level": 0
+        },
+        {
+          "name": "Sandstorm",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Rock Throw",
+          "level": 0
+        },
+        {
+          "name": "Rock Polish",
+          "level": 0
+        },
+        {
+          "name": "Roar",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "number": 96,
+      "name": "Drowzee",
+      "type1": "Psychic",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "number": 97,
+      "name": "Hypno",
+      "type1": "Psychic",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Flatter",
+          "level": 0
+        },
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Shadow Ball",
+          "level": 0
+        },
+        {
+          "name": "Meditate",
+          "level": 0
+        },
+        {
+          "name": "Hypnosis",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "number": 98,
+      "name": "Krabby",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "number": 99,
+      "name": "Kingler",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        },
+        {
+          "name": "Slam",
+          "level": 0
+        },
+        {
+          "name": "Metal Claw",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Giga Impact",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "number": 100,
+      "name": "Voltorb",
+      "type1": "Electric",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Self Destruct",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Thunder Shock",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "number": 101,
+      "name": "Electrode",
+      "type1": "Electric",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Self Destruct",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Thunder Shock",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Charge",
+          "level": 0
+        },
+        {
+          "name": "Sucker Punch",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Explosion",
+          "level": 0
+        },
+        {
+          "name": "Spark",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "number": 102,
+      "name": "Exeggcute",
+      "type1": "Grass",
+      "type2": "Psychic",
+      "moves": [
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Leech Seed",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "number": 103,
+      "name": "Exeggutor",
+      "type1": "Grass",
+      "type2": "Psychic",
+      "moves": [
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Leech Seed",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Bullet Seed",
+          "level": 0
+        },
+        {
+          "name": "Egg Bomb",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Solar Beam",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "number": 104,
+      "name": "Cubone",
+      "type1": "Ground",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Boomerang",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Sandstorm",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "number": 105,
+      "name": "Marowak",
+      "type1": "Ground",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Boomerang",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Sandstorm",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        },
+        {
+          "name": "Outrage",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Belly Drum",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Aerial Ace",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "number": 106,
+      "name": "Hitmonlee",
+      "type1": "Fighting",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Rolling Kick",
+          "level": 0
+        },
+        {
+          "name": "Submission",
+          "level": 0
+        },
+        {
+          "name": "Close Combat",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        },
+        {
+          "name": "Bulk Up",
+          "level": 0
+        },
+        {
+          "name": "Meditate",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Bounce",
+          "level": 0
+        },
+        {
+          "name": "High Jump Kick",
+          "level": 0
+        },
+        {
+          "name": "Sucker Punch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "number": 107,
+      "name": "Hitmonchan",
+      "type1": "Fighting",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Dynamic Punch",
+          "level": 0
+        },
+        {
+          "name": "Comet Punch",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Fire Punch",
+          "level": 0
+        },
+        {
+          "name": "Close Combat",
+          "level": 0
+        },
+        {
+          "name": "Thunder Punch",
+          "level": 0
+        },
+        {
+          "name": "Ice Punch",
+          "level": 0
+        },
+        {
+          "name": "Power-Up Punch",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Drain Punch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "number": 108,
+      "name": "Lickitung",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Lick",
+          "level": 0
+        },
+        {
+          "name": "Slam",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Belly Drum",
+          "level": 0
+        },
+        {
+          "name": "Power-Up Punch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "number": 109,
+      "name": "Koffing",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Smog",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Self Destruct",
+          "level": 0
+        },
+        {
+          "name": "Lava Plume",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "number": 110,
+      "name": "Weezing",
+      "type1": "Poison",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Smog",
+          "level": 0
+        },
+        {
+          "name": "Sludge Bomb",
+          "level": 0
+        },
+        {
+          "name": "Self Destruct",
+          "level": 0
+        },
+        {
+          "name": "Lava Plume",
+          "level": 0
+        },
+        {
+          "name": "Venom Drench",
+          "level": 0
+        },
+        {
+          "name": "Explosion",
+          "level": 0
+        },
+        {
+          "name": "Shadow Ball",
+          "level": 0
+        },
+        {
+          "name": "Toxic",
+          "level": 0
+        },
+        {
+          "name": "Will-O-Wisp",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "number": 111,
+      "name": "Rhyhorn",
+      "type1": "Ground",
+      "type2": "Rock",
+      "moves": [
+        {
+          "name": "Roar",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Crunch",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "number": 112,
+      "name": "Rhydon",
+      "type1": "Ground",
+      "type2": "Rock",
+      "moves": [
+        {
+          "name": "Roar",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Crunch",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Megahorn",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Dragon Rush",
+          "level": 0
+        },
+        {
+          "name": "Rock Polish",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "number": 113,
+      "name": "Chansey",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Egg Bomb",
+          "level": 0
+        },
+        {
+          "name": "Sing",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Soft Boiled",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Sweet Kiss",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "number": 114,
+      "name": "Tangela",
+      "type1": "Grass",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Vine Whip",
+          "level": 0
+        },
+        {
+          "name": "Slam",
+          "level": 0
+        },
+        {
+          "name": "Leech Seed",
+          "level": 0
+        },
+        {
+          "name": "Synthesis",
+          "level": 0
+        },
+        {
+          "name": "Stun Spore",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Rage Powder",
+          "level": 0
+        },
+        {
+          "name": "Substitute",
+          "level": 0
+        },
+        {
+          "name": "Mega Drain",
+          "level": 0
+        },
+        {
+          "name": "Rest",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "number": 115,
+      "name": "Kangaskhan",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Outrage",
+          "level": 0
+        },
+        {
+          "name": "Stomp",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Rest",
+          "level": 0
+        },
+        {
+          "name": "Power-Up Punch",
+          "level": 0
+        },
+        {
+          "name": "Crunch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "number": 116,
+      "name": "Horsea",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "number": 117,
+      "name": "Seadra",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        },
+        {
+          "name": "Flash Cannon",
+          "level": 0
+        },
+        {
+          "name": "Dragon Pulse",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Dragon Dance",
+          "level": 0
+        },
+        {
+          "name": "Hydro Pump",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "number": 118,
+      "name": "Goldeen",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Splash",
+          "level": 0
+        },
+        {
+          "name": "Aqua Jet",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "number": 119,
+      "name": "Seaking",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Splash",
+          "level": 0
+        },
+        {
+          "name": "Aqua Jet",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Bounce",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        },
+        {
+          "name": "Megahorn",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "number": 120,
+      "name": "Staryu",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Flash Cannon",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "number": 121,
+      "name": "Starmie",
+      "type1": "Water",
+      "type2": "Psychic",
+      "moves": [
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Flash Cannon",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Confuse Ray",
+          "level": 0
+        },
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Hyper Beam",
+          "level": 0
+        },
+        {
+          "name": "Hydro Pump",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "number": 122,
+      "name": "Mr. Mime",
+      "type1": "Psychic",
+      "type2": "Fairy",
+      "moves": [
+        {
+          "name": "Substitute",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        },
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Barrier",
+          "level": 0
+        },
+        {
+          "name": "Hypnosis",
+          "level": 0
+        },
+        {
+          "name": "Follow Me",
+          "level": 0
+        },
+        {
+          "name": "Meditate",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Nasty Plot",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "number": 123,
+      "name": "Scyther",
+      "type1": "Bug",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Lunge",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        },
+        {
+          "name": "Steel Wing",
+          "level": 0
+        },
+        {
+          "name": "Tailwind",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "U-Turn",
+          "level": 0
+        },
+        {
+          "name": "Aerial Ace",
+          "level": 0
+        },
+        {
+          "name": "Night Slash",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Silver Wind",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "number": 124,
+      "name": "Jynx",
+      "type1": "Ice",
+      "type2": "Psychic",
+      "moves": [
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Flash",
+          "level": 0
+        },
+        {
+          "name": "Sing",
+          "level": 0
+        },
+        {
+          "name": "Meditate",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Aurora Veil",
+          "level": 0
+        },
+        {
+          "name": "Draining Kiss",
+          "level": 0
+        },
+        {
+          "name": "Sweet Kiss",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "number": 125,
+      "name": "Electabuzz",
+      "type1": "Electric",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Thunder",
+          "level": 0
+        },
+        {
+          "name": "Thunder Shock",
+          "level": 0
+        },
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        },
+        {
+          "name": "Charge",
+          "level": 0
+        },
+        {
+          "name": "Thunder Punch",
+          "level": 0
+        },
+        {
+          "name": "Meditate",
+          "level": 0
+        },
+        {
+          "name": "Cross Chop",
+          "level": 0
+        },
+        {
+          "name": "Dynamic Punch",
+          "level": 0
+        },
+        {
+          "name": "Electroweb",
+          "level": 0
+        },
+        {
+          "name": "Power-Up Punch",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "number": 126,
+      "name": "Magmar",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Follow Me",
+          "level": 0
+        },
+        {
+          "name": "Flare Blitz",
+          "level": 0
+        },
+        {
+          "name": "Lava Plume",
+          "level": 0
+        },
+        {
+          "name": "Fire Blast",
+          "level": 0
+        },
+        {
+          "name": "Smog",
+          "level": 0
+        },
+        {
+          "name": "Cross Chop",
+          "level": 0
+        },
+        {
+          "name": "Belly Drum",
+          "level": 0
+        },
+        {
+          "name": "Will-O-Wisp",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "number": 127,
+      "name": "Pinsir",
+      "type1": "Bug",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Submission",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Focus Energy",
+          "level": 0
+        },
+        {
+          "name": "Bulk Up",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Rock Smash",
+          "level": 0
+        },
+        {
+          "name": "Close Combat",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "number": 128,
+      "name": "Tauros",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Hyper Beam",
+          "level": 0
+        },
+        {
+          "name": "Outrage",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        },
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Zen Headbutt",
+          "level": 0
+        },
+        {
+          "name": "Giga Impact",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "number": 129,
+      "name": "Magikarp",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Splash",
+          "level": 0
+        },
+        {
+          "name": "Bounce",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "number": 130,
+      "name": "Gyarados",
+      "type1": "Water",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Splash",
+          "level": 0
+        },
+        {
+          "name": "Bounce",
+          "level": 0
+        },
+        {
+          "name": "Tackle",
+          "level": 0
+        },
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Dragon Dance",
+          "level": 0
+        },
+        {
+          "name": "Outrage",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Crunch",
+          "level": 0
+        },
+        {
+          "name": "Hyper Beam",
+          "level": 0
+        },
+        {
+          "name": "Taunt",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "number": 131,
+      "name": "Lapras",
+      "type1": "Water",
+      "type2": "Ice",
+      "moves": [
+        {
+          "name": "Hydro Pump",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Sing",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Aurora Veil",
+          "level": 0
+        },
+        {
+          "name": "Icicle Crash",
+          "level": 0
+        },
+        {
+          "name": "Rest",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "number": 132,
+      "name": "Ditto",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Transform",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "number": 133,
+      "name": "Eevee",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "number": 134,
+      "name": "Vaporeon",
+      "type1": "Water",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Acid Armor",
+          "level": 0
+        },
+        {
+          "name": "Hydro Pump",
+          "level": 0
+        },
+        {
+          "name": "Aqua Ring",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "number": 135,
+      "name": "Jolteon",
+      "type1": "Electric",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Pin Missile",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Spark",
+          "level": 0
+        },
+        {
+          "name": "Thunder",
+          "level": 0
+        },
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "number": 136,
+      "name": "Flareon",
+      "type1": "Fire",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Flail",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Charm",
+          "level": 0
+        },
+        {
+          "name": "Dig",
+          "level": 0
+        },
+        {
+          "name": "Growl",
+          "level": 0
+        },
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Lava Plume",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Fire Blast",
+          "level": 0
+        },
+        {
+          "name": "Flare Blitz",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "number": 137,
+      "name": "Porygon",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        },
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Hyper Beam",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Recover",
+          "level": 0
+        },
+        {
+          "name": "Tri Attack",
+          "level": 0
+        },
+        {
+          "name": "Iron Tail",
+          "level": 0
+        },
+        {
+          "name": "Psybeam",
+          "level": 0
+        },
+        {
+          "name": "Shadow Ball",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "number": 138,
+      "name": "Omanyte",
+      "type1": "Rock",
+      "type2": "Water",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Spikes",
+          "level": 0
+        },
+        {
+          "name": "Withdraw",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "number": 139,
+      "name": "Omastar",
+      "type1": "Rock",
+      "type2": "Water",
+      "moves": [
+        {
+          "name": "Bubble",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        },
+        {
+          "name": "Whirlpool",
+          "level": 0
+        },
+        {
+          "name": "Spikes",
+          "level": 0
+        },
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Rock Blast",
+          "level": 0
+        },
+        {
+          "name": "Hydro Pump",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Rock Polish",
+          "level": 0
+        },
+        {
+          "name": "Supersonic",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "number": 140,
+      "name": "Kabuto",
+      "type1": "Rock",
+      "type2": "Water",
+      "moves": [
+        {
+          "name": "Aqua Jet",
+          "level": 0
+        },
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Metal Sound",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "number": 141,
+      "name": "Kabutops",
+      "type1": "Rock",
+      "type2": "Water",
+      "moves": [
+        {
+          "name": "Aqua Jet",
+          "level": 0
+        },
+        {
+          "name": "Withdraw",
+          "level": 0
+        },
+        {
+          "name": "Waterfall",
+          "level": 0
+        },
+        {
+          "name": "Metal Sound",
+          "level": 0
+        },
+        {
+          "name": "Surf",
+          "level": 0
+        },
+        {
+          "name": "Sandstorm",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Swords Dance",
+          "level": 0
+        },
+        {
+          "name": "Night Slash",
+          "level": 0
+        },
+        {
+          "name": "Aerial Ace",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "number": 142,
+      "name": "Aerodactyl",
+      "type1": "Rock",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Crunch",
+          "level": 0
+        },
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Fly",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Sky Attack",
+          "level": 0
+        },
+        {
+          "name": "Dragon Claw",
+          "level": 0
+        },
+        {
+          "name": "Rock Tomb",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Roost",
+          "level": 0
+        },
+        {
+          "name": "Sandstorm",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "number": 143,
+      "name": "Snorlax",
+      "type1": "Normal",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Take Down",
+          "level": 0
+        },
+        {
+          "name": "Mega Punch",
+          "level": 0
+        },
+        {
+          "name": "Outrage",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Harden",
+          "level": 0
+        },
+        {
+          "name": "Rest",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Rollout",
+          "level": 0
+        },
+        {
+          "name": "Belly Drum",
+          "level": 0
+        },
+        {
+          "name": "Giga Impact",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "number": 144,
+      "name": "Articuno",
+      "type1": "Ice",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Sky Attack",
+          "level": 0
+        },
+        {
+          "name": "Ice Beam",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Aurora Veil",
+          "level": 0
+        },
+        {
+          "name": "U-Turn",
+          "level": 0
+        },
+        {
+          "name": "Roost",
+          "level": 0
+        },
+        {
+          "name": "Steel Wing",
+          "level": 0
+        },
+        {
+          "name": "Hurricane",
+          "level": 0
+        },
+        {
+          "name": "Icy Wind",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "number": 145,
+      "name": "Zapdos",
+      "type1": "Electric",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Sky Attack",
+          "level": 0
+        },
+        {
+          "name": "Thunder",
+          "level": 0
+        },
+        {
+          "name": "Charge",
+          "level": 0
+        },
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        },
+        {
+          "name": "Metal Sound",
+          "level": 0
+        },
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Roost",
+          "level": 0
+        },
+        {
+          "name": "Thunder Shock",
+          "level": 0
+        },
+        {
+          "name": "Drill Peck",
+          "level": 0
+        },
+        {
+          "name": "Light Screen",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "number": 146,
+      "name": "Moltres",
+      "type1": "Fire",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Sky Attack",
+          "level": 0
+        },
+        {
+          "name": "Flamethrower",
+          "level": 0
+        },
+        {
+          "name": "Heat Wave",
+          "level": 0
+        },
+        {
+          "name": "Leer",
+          "level": 0
+        },
+        {
+          "name": "Fire Spin",
+          "level": 0
+        },
+        {
+          "name": "Will-O-Wisp",
+          "level": 0
+        },
+        {
+          "name": "Roost",
+          "level": 0
+        },
+        {
+          "name": "Ember",
+          "level": 0
+        },
+        {
+          "name": "Lava Plume",
+          "level": 0
+        },
+        {
+          "name": "Fire Blast",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "number": 147,
+      "name": "Dratini",
+      "type1": "Dragon",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Extreme Speed",
+          "level": 0
+        },
+        {
+          "name": "Dragon Rush",
+          "level": 0
+        },
+        {
+          "name": "Dragon Dance",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "number": 148,
+      "name": "Dragonair",
+      "type1": "Dragon",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Extreme Speed",
+          "level": 0
+        },
+        {
+          "name": "Dragon Rush",
+          "level": 0
+        },
+        {
+          "name": "Dragon Dance",
+          "level": 0
+        },
+        {
+          "name": "Dragon Pulse",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "number": 149,
+      "name": "Dragonite",
+      "type1": "Dragon",
+      "type2": "Flying",
+      "moves": [
+        {
+          "name": "Agility",
+          "level": 0
+        },
+        {
+          "name": "Extreme Speed",
+          "level": 0
+        },
+        {
+          "name": "Dragon Rush",
+          "level": 0
+        },
+        {
+          "name": "Dragon Dance",
+          "level": 0
+        },
+        {
+          "name": "Dragon Pulse",
+          "level": 0
+        },
+        {
+          "name": "Earthquake",
+          "level": 0
+        },
+        {
+          "name": "Twister",
+          "level": 0
+        },
+        {
+          "name": "Outrage",
+          "level": 0
+        },
+        {
+          "name": "Hyper Beam",
+          "level": 0
+        },
+        {
+          "name": "Draco Meteor",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "number": 150,
+      "name": "Mewtwo",
+      "type1": "Psychic",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Shadow Ball",
+          "level": 0
+        },
+        {
+          "name": "Thunderbolt",
+          "level": 0
+        },
+        {
+          "name": "Bulk Up",
+          "level": 0
+        },
+        {
+          "name": "Psystrike",
+          "level": 0
+        },
+        {
+          "name": "Blizzard",
+          "level": 0
+        },
+        {
+          "name": "Recover",
+          "level": 0
+        },
+        {
+          "name": "Psycho Cut",
+          "level": 0
+        },
+        {
+          "name": "Hyper Beam",
+          "level": 0
+        },
+        {
+          "name": "Giga Impact",
+          "level": 0
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "number": 151,
+      "name": "Mew",
+      "type1": "Psychic",
+      "type2": "",
+      "moves": [
+        {
+          "name": "Psychic",
+          "level": 0
+        },
+        {
+          "name": "Flash Cannon",
+          "level": 0
+        },
+        {
+          "name": "Amnesia",
+          "level": 0
+        },
+        {
+          "name": "Heat Wave",
+          "level": 0
+        },
+        {
+          "name": "Thunder",
+          "level": 0
+        },
+        {
+          "name": "Teleport",
+          "level": 0
+        },
+        {
+          "name": "Tri Attack",
+          "level": 0
+        },
+        {
+          "name": "Hyper Beam",
+          "level": 0
+        },
+        {
+          "name": "Recover",
+          "level": 0
+        },
+        {
+          "name": "Giga Impact",
+          "level": 0
+        }
+      ]
+    }
+  ]
+}
