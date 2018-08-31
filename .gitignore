@@ -2,3 +2,4 @@
 *.sqlite*
 3-email/config.js
 4-firebase/config.js
+6-realm/db/data/*

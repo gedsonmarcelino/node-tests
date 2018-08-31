@@ -1,0 +1,64 @@
+{
+  "typeIngredients" : [
+    {
+      "id": 1,
+      "name": "Tiny Mushroom",
+      "description": "soft and small",
+      "color": "Red"
+    },
+    {
+      "id": 2,
+      "name": "Bluk Berry",
+      "description": "soft and small",
+      "color": "Blue"
+    },
+    {
+      "id": 3,
+      "name": "Apricorn",
+      "description": "hard and small",
+      "color": "Yellow"
+    },
+    {
+      "id": 4,
+      "name": "Fossil",
+      "description": "hard and small",
+      "color": "Gray"
+    },
+    {
+      "id": 5,
+      "name": "Big Root",
+      "description": "soft and precious",
+      "color": "Red"
+    },
+    {
+      "id": 6,
+      "name": "Icy Rock",
+      "description": "hard and precious",
+      "color": "Blue"
+    },
+    {
+      "id": 7,
+      "name": "Honey",
+      "description": "soft and precious",
+      "color": "Yellow"
+    },
+    {
+      "id": 8,
+      "name": "Balm Mushroom",
+      "description": "soft and precious",
+      "color": "Gray"
+    },
+    {
+      "id": 9,
+      "name": "Rainbow Matter",
+      "description": "",
+      "color": ""
+    },
+    {
+      "id": 10,
+      "name": "Mystical Shell",
+      "description": "",
+      "color": ""
+    }
+  ]
+}

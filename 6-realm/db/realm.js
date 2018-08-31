@@ -1,17 +1,24 @@
 const Realm = require('realm')
 
-const PokemonSchema = require('./schemas/Pokemon')
-const PokemonMovesSchema = require('./schemas/PokemonMoves')
-
 const config = {
-  schema: [PokemonSchema, PokemonMovesSchema],
+  schema: [
+    require('./schemas/Pokemon'),
+    require('./schemas/PokemonMoves'), 
+    require('./schemas/Recipe'), 
+    require('./schemas/RecipeIngredient'), 
+    require('./schemas/Ingredient')
+  ],
   path: './db/data/data.realm'
 }
 
+// const createRealm = () => {
+//   return Realm.open( config )
+//   .then(realm => (realm))
+//   .catch(error => console.log(error));
+// }
+
 const createRealm = () => {
-  return Realm.open( config )
-  .then(realm => (realm))
-  .catch(error => console.log(error));
+  return new Realm( config )
 }
 
 module.exports = createRealm()

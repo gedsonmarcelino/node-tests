@@ -1,0 +1,461 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Mulligan Stew a la Cube",
+      "description": "Anything",
+      "attracted": "Common",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [1, 1, 4, 4 ,4]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [1, 1, 2, 3 ,7]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [1, 2, 5, 6, 7]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [8, 8, 8, 6, 7]
+        }
+      ]
+    }, 
+    {
+      "id": 2,
+      "name": "Red Stew a la Cube",
+      "description": "Red ingredients only",
+      "attracted": "Red",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [1,1,1,1,1]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [1,1,1,1,8]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [1,1,5,5,8]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [5,5,5,5,5]
+        }
+      ]
+    }, 
+    {
+      "id": 3,
+      "name": "Blue Soda a la Cube",
+      "description": "Blue ingredients only",
+      "attracted": "Blue",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [2,2,2,2,2]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [2,2,2,2,8]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [2,2,6,6,8]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [6,6,6,6,8]
+        }
+      ]
+    }, 
+    {
+      "id": 4,
+      "name": "Yellow Curry a la Cube",
+      "description": "Yellow ingredients only",
+      "attracted": "Yellow",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [3,3,3,3,3]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [3,3,3,3,5]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [3,3,7,7,5]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [7,7,7,7,5]
+        }
+      ]
+    }, 
+    {
+      "id": 5,
+      "name": "Gray Porridge a la Cube",
+      "description": "Gray ingredients only",
+      "attracted": "Gray",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [4,4,4,4,4]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [4,4,4,4,6]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [4,4,8,8,6]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [8,8,8,8,6]
+        }
+      ]
+    }, 
+    {
+      "id": 6,
+      "name": "Mouth-Watering Dip a la Cube",
+      "description": "A whole lot of soft things and a lot of blue",
+      "attracted": "Water",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [1,3,2,2,2]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [2,2,2,3,8]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [2,2,6,8,8]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [6,6,6,8,8]
+        }
+      ]
+    }, 
+    {
+      "id": 7,
+      "name": "Plain Crepe a la Cube",
+      "description": "A lot of sweet things and a few gray",
+      "attracted": "Normal",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [2,2,2,4,4]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [2,2,4,4,7]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [2,2,7,8,8]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [7,7,7,8,8]
+        }
+      ]
+    }, 
+    {
+      "id": 8,
+      "name": "Sludge Soup a la Cube",
+      "description": "A whole lot of mushrooms and a lot of soft things",
+      "attracted": "Poison",
+      "ingredients": [
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [1,1,1,4,8]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [1,1,8,8,6]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [9,8,8,8,1]
+        }
+      ]
+    }, 
+    {
+      "id": 9,
+      "name": "Mud Pie a la Cube",
+      "description": "A few minerals and a lot of soft things",
+      "attracted": "Ground",
+      "ingredients": [{
+        "level": 0,
+        "type": "Normal",
+        "items": [1,1,1,4,4]
+      },
+      {
+        "level": 1,
+        "type": "Good",
+        "items": [2,2,4,4,8]
+      },
+      {
+        "level": 2,
+        "type": "Very Good",
+        "items": [4,4,5,5,8]
+      },
+      {
+        "level": 3,
+        "type": "Special",
+        "items": [6,6,8,8,8]
+      }]
+    }, 
+    {
+      "id": 10,
+      "name": "Veggie Smoothie a la Cube",
+      "description": "A whole lot of plants and a few soft things",
+      "attracted": "Grass",
+      "ingredients": [
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [1,3,3,3,5]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [3,3,5,5,5]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [9,5,5,5,3]
+        }
+      ]
+    }, 
+    {
+      "id": 11,
+      "name": "Honey Nectar a la Cube",
+      "description": "A whole lot of sweet things and a lot of yellow",
+      "attracted": "Bug",
+      "ingredients": [
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [2,2,7,7,3]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [7,7,7,2,2]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [7,7,7,2,9]
+        }
+      ]
+    }, 
+    {
+      "id": 12,
+      "name": "Brain Food a la Cube",
+      "description": "A lot of sweet things and a few hard things",
+      "attracted": "Psychic",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [2,2,2,3,3]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [2,2,3,3,7]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [2,3,6,7,7]
+        }
+      ]
+    }, 
+    {
+      "id": 13,
+      "name": "Stone Soup a la Cube",
+      "description": "A whole lot of hard things and a few minerals",
+      "attracted": "Rock",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [3,3,3,4,4]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [8,4,4,3,3]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [8,6,6,4,4]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [9,6,6,6,3]
+        }
+      ]
+    }, 
+    {
+      "id": 14,
+      "name": "Light-as-Air Casserole a la Cube",
+      "description": "A lot of minerals and a few plants",
+      "attracted": "Flying",
+      "ingredients": [
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [5,5,4,4,4]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [4,4,5,5,6]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [6,6,6,5,5]
+        }
+      ]
+    }, 
+    {
+      "id": 15,
+      "name": "Hot Pot a la Cube",
+      "description": "A lot of mushrooms and a little red",
+      "attracted": "Fire",
+      "ingredients": [
+        {
+          "level": 0,
+          "type": "Normal",
+          "items": [3,3,1,1,1]
+        },
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [8,3,3,1,1]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [8,8,5,2,1]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [8,8,8,5,5]
+        }
+      ]
+    }, 
+    {
+      "id": 16,
+      "name": "Watt a Risotta a la Cube",
+      "description": "A whole lot of soft things and a lot of yellow",
+      "attracted": "Eletric",
+      "ingredients": [
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [1,1,3,7,7]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [1,3,5,7,7]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [5,5,7,7,7]
+        }
+      ]
+    }, 
+    {
+      "id": 17,
+      "name": "Get Swole Syrup a la Cube",
+      "description": "A lot of sweet things and a few mushrooms",
+      "attracted": "Fighting",
+      "ingredients": [
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [1,1,2,7,7]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [1,2,7,7,8]
+        }
+      ]
+    }, 
+    {
+      "id": 18,
+      "name": "Ambrosia of Legends a la Cube",
+      "description": "A whole lot of mystical things",
+      "attracted": "Rare",
+      "ingredients": [
+        {
+          "level": 1,
+          "type": "Good",
+          "items": [1,1,2,2,10]
+        },
+        {
+          "level": 2,
+          "type": "Very Good",
+          "items": [4,4,4,9,10]
+        },
+        {
+          "level": 3,
+          "type": "Special",
+          "items": [3,5,5,9,10]
+        }
+      ]
+    }
+  ]
+}
