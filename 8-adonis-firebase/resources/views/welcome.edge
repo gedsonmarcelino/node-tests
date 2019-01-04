@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hello Adonis</title>
+</head>
+<body>
+  <form method="POST" action="/verify-token">  
+    {{ csrfField() }}
+    <ul>
+      <li>
+        <a href="javascript:;" id="btnGoogle">Google Login</a> <br/>
+        <textarea name="accessToken" id="accessToken"></textarea>
+      </li>
+      <li>
+        <button type="submit">Enviar</button>
+      </li>
+    </ul>
+  </form>
+  <script src="https://www.gstatic.com/firebasejs/5.7.2/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyDcQJ_zPPze2ZKfgP_6R57DqeA_x0h3Z_Q",
+      authDomain: "vue-http-test-5bfdd.firebaseapp.com",
+      databaseURL: "https://vue-http-test-5bfdd.firebaseio.com",
+      projectId: "vue-http-test-5bfdd",
+      storageBucket: "vue-http-test-5bfdd.appspot.com",
+      messagingSenderId: "108626696298"
+    };
+    firebase.initializeApp(config);
+
+    var provider = new firebase.auth.GoogleAuthProvider();
+
+    document.getElementById('btnGoogle').addEventListener('click', function(){
+      firebase.auth().signInWithPopup(provider).then(function(result) {
+        // var token = result.credential.accessToken;
+        // var user = result.user;
+
+        firebase.auth().currentUser.getIdToken(true).then(function(idToken) {
+          document.getElementById('accessToken').innerHTML = idToken
+          console.log("It has been logged in with success.", token)
+        }).catch(function(error) {
+          // Handle error
+        });
+
+      }).catch(function(error) {
+        console.log('Error', error)
+      });
+    })
+  </script>
+</body>
+</html>
