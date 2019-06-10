@@ -1,4 +1,7 @@
 *node_modules*
+*lock.json
+*.lock
+
 *.sqlite*
 3-email/config.js
 4-firebase/config.js
