@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemailer": "^4.6.4"
+    "nodemailer": "^6.4.16"
   },
   "devDependencies": {
     "standard": "^11.0.1"
